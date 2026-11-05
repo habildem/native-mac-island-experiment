@@ -1,0 +1,18 @@
+{
+  "build": "26C5035r",
+  "sha256": "62793cce3f3a2466e5d83e1e1bc69b215dbed45b1f2b346db79260a1dafa03cf",
+  "slices": [
+    {
+      "uuid": "DE472913A81D35BE9584EC597987E015",
+      "address": 4300733848,
+      "file_offset": 5782936,
+      "expected": "00060034"
+    },
+    {
+      "uuid": "802DB0F6B9CF38378952C767D6C216B1",
+      "address": 4300567164,
+      "file_offset": 13628028,
+      "expected": "00060034"
+    }
+  ]
+}
